@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+
+input{
+    border-radius: 5px;
+    border-style: solid;
+    padding: 5px;
+}
+#pokemon{
+    border-color: lightgray;
+}
+#button{
+    border-color: lightgray;
+    background-color: lightgray;
+    color: black;    
+}
+#button:hover{
+    border-color: rgb(192, 46, 46);
+    background-color: rgb(192, 46, 46);
+    color: white;
+}
+
+
+.normal{
+    color: rgb(104, 104, 104);
+}
+.fire{
+    color: orange;
+}
+.water{
+    color: rgb(0, 110, 255);
+}
+.grass{
+    color: rgb(83, 148, 71);
+}
+.electric{
+    color: rgb(255, 208, 0);
+}
+.ice{
+    color: skyblue;
+}
+.fighting{
+    color: black;
+}
+.poison{
+    color: purple;
+}
+.ground{
+    color: rgb(119, 119, 62);
+}
+.flying{
+    color: violet;
+}
+.psychic{
+    color: rgb(214, 52, 106);
+}
+.bug{
+    color: rgb(87, 121, 44);
+}
+.rock{
+    color: rgb(119, 119, 62);
+}
+.ghost{
+    color: rgb(82, 56, 82);
+}
+.dark{
+    color: rgb(63, 45, 35);
+}
+.dragon{
+    color: rgb(62, 36, 121);
+}
+.steel{
+    color: grey;
+}
+.fairy{
+    color: rgb(223, 128, 143);
+}
